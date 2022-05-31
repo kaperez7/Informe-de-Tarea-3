@@ -98,6 +98,22 @@ Se mide la corriente en los resistores R2;R3;R9;R4, porque al ser un circuito en
 
 ![image](https://user-images.githubusercontent.com/105570939/171100268-ed3f2526-37ba-4764-8351-ff572bd0c47e.png)
 
+![image](https://user-images.githubusercontent.com/105570939/171103502-589f932d-abcf-4d90-9f87-221fbaf73f98.png)
+
+**11.-Cuatro resistores de igual valor están en serie con una batería de 5 V y se miden 2.23 mA. ¿Cuál es el valor de cada resistor?**
+
+![image](https://user-images.githubusercontent.com/105570939/171104634-321b32f8-e52c-4674-b3fb-30c6268ed752.png)
+
+Cada resistor tiene un valor de 560 ya que el enunciado me dice que son iguales.
+
+**12.-Determine VR1, R2 y R3 en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171105989-20e0ffd6-627f-4e9d-a63e-dbcd87aa189e.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171107107-ab0dd74f-038d-4e8b-855d-ee041e146660.png)
+
+**13.-Determine la corriente que el medidor de la figura. lee en cada posición del interruptor calibrado.**
+
 
 
 
