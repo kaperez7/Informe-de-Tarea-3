@@ -60,6 +60,18 @@ Para que esten en serie todos los resistores se deben conectar de esta forma:
 
 ![image](https://user-images.githubusercontent.com/105570939/171094316-50f77ae7-c523-4573-b68a-ef8355d8cec7.png)
 
+**4.-Muestre cómo conectar una fuente de voltaje y un amperímetro a la tarjeta de circuito impreso ilustrada en la figura, para medir la corriente en R1. ¿Qué otras corrientes de resistor se miden con esta configuración?**
+
+![image](https://user-images.githubusercontent.com/105570939/171095368-27d56d5a-3273-4559-afa9-bbae157be896.png)
+
+Se mide la corriente en los resistores R2;R3;R9;R4, porque al ser un circuito en serie la corriente es la misma.
+
+**SECCIÓN 5–3: Resistencia total en serie**
+
+**5.-Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 ohmios, 2.2 Æ, 5.6 Æ, 12 Æ, y 22 Æ. Determine la resistencia total.**
+
+
+
 
 4. VIDEO
 
