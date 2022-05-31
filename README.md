@@ -35,8 +35,31 @@ Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de t
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
-En este punto se debe explicar cómo funcionan la implementación del circuito, programa o resolución de problemas.
-La solución deb estar en esta sección, no como un archivo anexo.
+**SECCIÓN 5–1: Resistores en serie**
+
+**1.-Determine qué resistores de la figura están en serie. Demuestre cómo interconectar las puntas para poner todos los resistores en serie.**
+
+**Estan en seri los resistores:**
+
+* R13;R7;R14;R16
+* R12;R8;R6
+* R10;R11;R15;R5
+* R1;R2;R3;R9;R4
+
+Para que esten en serie todos los resistores se deben conectar de esta forma:
+
+![image](https://user-images.githubusercontent.com/105570939/171092528-d052c9fc-f513-4f89-a839-5bd429f68cda.png)
+
+**2.-Determine la resistencia nominal presente entre las puntas 2 y 3 del circuito de la figura del ejercicio 1.**
+
+![image](https://user-images.githubusercontent.com/105570939/171093735-e940e4df-df7a-405d-9791-04cb9c0b4c64.png)
+
+**SECCIÓN 5–2: Corriente en un circuito en serie**
+
+**3.-¿Cuál es la corriente a través de cada resistor dispuesto en un circuito en serie si el voltaje total es de 12 V y la resistencia total de 120 ohmios?**
+
+![image](https://user-images.githubusercontent.com/105570939/171094316-50f77ae7-c523-4573-b68a-ef8355d8cec7.png)
+
 
 4. VIDEO
 
