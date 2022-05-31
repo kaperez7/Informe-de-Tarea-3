@@ -68,7 +68,36 @@ Se mide la corriente en los resistores R2;R3;R9;R4, porque al ser un circuito en
 
 **SECCIÓN 5–3: Resistencia total en serie**
 
-**5.-Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 ohmios, 2.2 Æ, 5.6 Æ, 12 Æ, y 22 Æ. Determine la resistencia total.**
+**5.-Se conectan los siguientes resistores (uno de cada uno) en un circuito en serie: 1.0 ohmios, 2.2 ohmios, 5.6 ohmios, 12 ohmios, y 22 ohmios. Determine la resistencia total.**
+
+![image](https://user-images.githubusercontent.com/105570939/171095982-0caeb336-6d83-41e0-9816-74a7434dfb55.png)
+
+**6.-Calcule la RT en cada circuito de la siguiente figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171096162-b7c3f960-c8c7-47ff-acb4-7d8e318d4837.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171096775-2d0756d9-82ff-47bc-9237-6c0bded2203c.png)
+
+**7.-Se conectan en serie seis resistores de 56 ohmios, ocho de 100 Æ, y dos de 22 Æ. ¿Cuál es la resistencia total?
+
+![image](https://user-images.githubusercontent.com/105570939/171097038-558c5b7c-7183-4727-bd30-e0d0d7061ce7.png)
+
+**8.-Usted dispone de los siguientes valores de resistor en el laboratorio en cantidades ilimitadas: 10 ohmios, 100 ohmios, 470 ohmios, 560 ohmios, 680 ohmios, 1.0 K ohmios, 2.2 K ohmios, y 5.6 K ohmios. No hay existencias de todos los demás valores estándar. Un proyecto en el que está trabajando requiere emplear una resistencia de 18 K ohmios. ¿Qué combinación de los valores disponibles utilizaría en serie para lograr la resistencia total?**
+
+![image](https://user-images.githubusercontent.com/105570939/171097911-fa244f24-eee7-47f0-8dba-eb905ed252dd.png)
+
+**9.-En la figura, ¿cuál es la resistencia total de A a B con cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/105570939/171098124-4c81ce85-f71d-4b92-9bfb-158090d4bf6f.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171100091-1e753012-d289-4034-ab9d-49a07e4b1bc5.png)
+
+**SECCIÓN 5–4: Aplicación de la ley de Ohm**
+
+**10.-Determine la caída de voltaje a través de cada resistor mostrado en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171100268-ed3f2526-37ba-4764-8351-ff572bd0c47e.png)
+
 
 
 
