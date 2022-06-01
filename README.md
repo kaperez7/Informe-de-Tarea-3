@@ -114,6 +114,13 @@ Cada resistor tiene un valor de 560 ya que el enunciado me dice que son iguales.
 
 **13.-Determine la corriente que el medidor de la figura. lee en cada posición del interruptor calibrado.**
 
+![image](https://user-images.githubusercontent.com/105570939/171345842-69db710a-bf0e-4708-8d29-e265d4d001e0.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171356301-b57dec84-a22d-4e57-bf55-918efe734fb3.png)
+
+**SECCIÓN 5–5: Fuentes de voltaje en serie.**
+
+**14.- El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
 
 
 
