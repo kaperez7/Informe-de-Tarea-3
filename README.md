@@ -144,8 +144,77 @@ Cada resistor tiene un valor de 560 ya que el enunciado me dice que son iguales.
 
 **18.- Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura, para cada posición del interruptor.**
 
+![image](https://user-images.githubusercontent.com/105570939/171542367-2d3ff23c-7e51-4f39-afe3-96f7499db7f9.png)
 
+![image](https://user-images.githubusercontent.com/105570939/171549093-9dc89802-498b-436e-913a-50bfccf73931.png)
 
+**SECCIÓN 5–7: Divisores de voltaje**
+
+**19.-Determine el voltaje entre los puntos A y B en cada divisor de voltaje de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171550494-7522e421-6432-4d78-9819-34044d6312bd.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171552342-507bf921-e47d-4127-96d1-920325527e5f.png)
+
+**20.-Determine los voltajes mínimo y máximo producidos por el divisor de voltaje de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171552521-60613185-f80d-4af1-b892-1c30998fe247.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171555243-851637c1-42ea-4799-8fc9-561f7269afe6.png)
+
+**21.-En cada punto de la figura, determine el voltaje con respecto al lado negativo de la batería.**
+
+![image](https://user-images.githubusercontent.com/105570939/171555335-53cced18-48f5-4b86-8c14-dff1d9fae450.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171559066-c8e236d1-07cc-4e06-8b13-1a9f65224598.png)
+
+**SECCIÓN 5–8: Potencia en circuitos en serie**
+
+**22.-Cada uno de cinco resistores dispuestos en serie manejan 50 mW. ¿Cuál es la potencia total?**
+
+![image](https://user-images.githubusercontent.com/105570939/171559837-d25b7cb4-bdfc-44ec-a3b2-d9b07da9b744.png)
+
+**23.-Los siguientes resistores de 1⁄4Westán dispuestos en serie: 1.2 k ohmios, 2.2 k ohmios, 3.9 k ohmios, y 5.6 k ohmios. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+
+![image](https://user-images.githubusercontent.com/105570939/171565200-5edb936b-a3c5-43d0-8179-80eed2a13a8c.png)
+
+El resistor con valor 5.6 k ohmios se quemara primero.
+
+**24.-Cierto circuito en serie se compone de un resistor de 1⁄8W, un resistor de 1⁄4W, y un resistor de 1⁄2 W. La resistencia total es de 2400 Æ. Si cada uno de los resistores opera en el circuito a su máxima disipación de potencia, determine lo siguiente:**
+
+* I.
+* VT.
+* El valor de cada resistor.
+
+![image](https://user-images.githubusercontent.com/105570939/171568565-ceea5241-ecca-4c88-bc12-f6f9efaa95cc.png)
+
+**SECCIÓN 5–9 Mediciones de voltaje**
+
+**25.-En la figura, ¿cómo determinaría el voltaje en R2 por medición, sin conectar un medidor directamente a través del resistor?**
+
+![image](https://user-images.githubusercontent.com/105570939/171569106-a60d9f37-539d-4b92-89f4-4b6f23f39568.png)
+
+Lo hiciera con el método de tierra, es decir coloco un extremo de mi medidor a tierra y el otro al resistor que deso medir.
+
+**SECCIÓN 5–10: Localización de fallas.**
+
+**26.-Se conecta una serie de cinco resistores a través de una batería de 12 V. Se miden 0 volts en todos los resistores excepto en R2. ¿Qué está mal en el circuito? ¿Qué voltaje se medirá a través de R2?**
+
+El circuito tiene una apertura en R2, el voltaje medido seria el mismo de la bateria es decir 12 v.
+
+**27.-¿Cuál corriente mediría usted en la figura 5-91(b) si sólo R2 estuviera en cortocircuito?**
+
+![image](https://user-images.githubusercontent.com/105570939/171573999-2ae9ea26-24f4-4153-8952-6df272e6f77a.png)
+
+**28.- Se leen 15 k ohmios entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura. ¿Indica esto un problema? De ser así, identifíquelo.
+
+Si indica un problema y es que el circuito se encuentra abierto.
+
+**CAPITULO 6**
+
+**SECCIÓN 6–1: Resistores en paralelo**
+
+**1.-Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.**
 
 4. VIDEO
 
