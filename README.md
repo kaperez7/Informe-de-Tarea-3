@@ -120,7 +120,29 @@ Cada resistor tiene un valor de 560 ya que el enunciado me dice que son iguales.
 
 **SECCIÓN 5–5: Fuentes de voltaje en serie.**
 
-**14.- El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?
+**14.- El término oposición en serie significa que las fuentes están en serie con polaridades opuestas. Si una batería de 12 V y otra de 3 V están en oposición en serie, ¿cuál es el voltaje total?**
+
+![image](https://user-images.githubusercontent.com/105570939/171525501-39cf170b-1165-4fa3-a048-c79f283e8d7a.png)
+
+**SECCIÓN 5–6: Ley del voltaje de Kirchhoff**
+
+**15.-Se miden las siguientes caídas de voltaje a través de tres resistores dispuestos en serie: 5.5 V, 8.2 V, y 12.3 V. ¿Cuál es el valor del voltaje de la fuente al que están conectados estos resistores?**
+
+![image](https://user-images.githubusercontent.com/105570939/171526004-9bac24dd-9efc-47ee-b498-8ddbfe31a524.png)
+
+**16.-Determine la caída o las caídas de voltaje no especificadas en cada circuito de la figura. Muestre cómo conectar un voltímetro para medir cada una de las caídas de voltaje desconocidas.**
+
+![image](https://user-images.githubusercontent.com/105570939/171528921-5304abef-9ea4-4b38-b131-2c666b420485.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171528529-87eafee9-16f0-43ba-ac7b-aebc7453405c.png)
+
+**17.-Encuentre R1, R2 y R3 en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171529037-548c56f9-8edf-4c2b-9d2b-0ba0238df13b.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171541825-d4febb26-520b-49ae-85b6-7a4250aeae30.png)
+
+**18.- Con el resultado del problema 35, determine el voltaje a través de cada resistor mostrado en la figura, para cada posición del interruptor.**
 
 
 
