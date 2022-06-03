@@ -274,7 +274,7 @@ El voltaje a los extremos es de 12 V
 
 ![image](https://user-images.githubusercontent.com/105570939/171778559-d4fe0ffe-b67c-4853-be60-8d432b2cfd89.png)
 
-![image](https://user-images.githubusercontent.com/105570939/171779829-a05c03ca-2cbe-48a2-8f10-48d38f231c97.png)
+![image](https://user-images.githubusercontent.com/105570939/171795182-69c0e410-4345-470f-bac8-31cf994c1927.png)
 
 **11.-Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
