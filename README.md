@@ -278,6 +278,14 @@ El voltaje a los extremos es de 12 V
 
 **11.-Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
+![image](https://user-images.githubusercontent.com/105570939/171781880-b3012e7d-cc78-41eb-a38d-1da3deaaf773.png)
+
+Cada resistencia tiene el valor de 18K ohmios.
+
+**12.-Encuentre los valores de las cantidades marcadas no especificadas en cada circuito de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171781976-06eb3ca0-f10d-4ede-bc08-57ed5605628d.png)
+
 
 
 
