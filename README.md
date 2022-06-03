@@ -78,7 +78,7 @@ Se mide la corriente en los resistores R2;R3;R9;R4, porque al ser un circuito en
 
 ![image](https://user-images.githubusercontent.com/105570939/171096775-2d0756d9-82ff-47bc-9237-6c0bded2203c.png)
 
-**7.-Se conectan en serie seis resistores de 56 ohmios, ocho de 100 Æ, y dos de 22 Æ. ¿Cuál es la resistencia total?
+**7.-Se conectan en serie seis resistores de 56 ohmios, ocho de 100 ohmios, y dos de 22 ohmios. ¿Cuál es la resistencia total?**
 
 ![image](https://user-images.githubusercontent.com/105570939/171097038-558c5b7c-7183-4727-bd30-e0d0d7061ce7.png)
 
@@ -174,7 +174,7 @@ Cada resistor tiene un valor de 560 ya que el enunciado me dice que son iguales.
 
 ![image](https://user-images.githubusercontent.com/105570939/171559837-d25b7cb4-bdfc-44ec-a3b2-d9b07da9b744.png)
 
-**23.-Los siguientes resistores de 1⁄4Westán dispuestos en serie: 1.2 k ohmios, 2.2 k ohmios, 3.9 k ohmios, y 5.6 k ohmios. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?
+**23.-Los siguientes resistores de 1⁄4Westán dispuestos en serie: 1.2 k ohmios, 2.2 k ohmios, 3.9 k ohmios, y 5.6 k ohmios. ¿Cuál es el voltaje máximo que puede ser aplicado a través de estos resistores sin exceder el valor nominal de potencia? ¿Cuál resistor se quemará primero al aplicar un voltaje excesivo?**
 
 ![image](https://user-images.githubusercontent.com/105570939/171565200-5edb936b-a3c5-43d0-8179-80eed2a13a8c.png)
 
@@ -242,7 +242,7 @@ El voltaje a los extremos es de 12 V
 
 **SECCIÓN 6–3: Ley de las corrientes de Kirchhoff**
 
-**5.-Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+**5.-Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?**
 
 ![image](https://user-images.githubusercontent.com/105570939/171767696-e1ab25ab-a320-46f9-a132-a21e9809eb57.png)
 
@@ -251,6 +251,32 @@ El voltaje a los extremos es de 12 V
 **6.-Los siguientes resistores están conectados en paralelo: 1.0 M ohmios, 2.2 M ohmios, 5.6 M ohmios, 12 M ohmios, y 22 M ohmios.Determine la resistencia total.**
 
 ![image](https://user-images.githubusercontent.com/105570939/171772107-fe356a84-247d-4c6e-a856-3d6cbc72f075.png)
+
+**7.-Calcule RT en cada uno de los circuitos de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171773015-71a2a5ce-e180-494e-96dd-93518fe8ccf8.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171774165-54385f29-2a7a-4b54-9730-c5b1b695430b.png)
+
+**8.-Tres grupos, uno de cinco resistores de 470 ohmios, otro de diez resistores de 100 ohmios, y uno más de dos resistores de 100 ohmios están conectados en paralelo. ¿Cuál es la resistencia total para cada uno de los tres agrupamientos?**
+
+![image](https://user-images.githubusercontent.com/105570939/171776557-be31649e-7e7d-4a2e-8fda-102a52da5f47.png)
+
+**9.-Si la resistencia total en la figura, es de 389.2 ohmios, ¿cuál es el valor de R2?**
+
+![image](https://user-images.githubusercontent.com/105570939/171776635-90da8fe6-472c-4599-b3ad-84f7c24cb510.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171778456-97288346-254c-467d-98fd-a9fe95477640.png)
+
+**SECCIÓN 6–5: Aplicación de la ley de Ohm**
+
+**10.-¿Cuál es la corriente total en cada uno de los circuitos de la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/171778559-d4fe0ffe-b67c-4853-be60-8d432b2cfd89.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171779829-a05c03ca-2cbe-48a2-8f10-48d38f231c97.png)
+
+**11.-Cuatro resistores de igual valor están conectados en paralelo. Se aplican cinco volts al circuito en paralelo y se lee 1.11 mA en la fuente. ¿Cuál es el valor de cada resistor?**
 
 
 
