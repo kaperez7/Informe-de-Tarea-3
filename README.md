@@ -286,7 +286,15 @@ Cada resistencia tiene el valor de 18K ohmios.
 
 ![image](https://user-images.githubusercontent.com/105570939/171781976-06eb3ca0-f10d-4ede-bc08-57ed5605628d.png)
 
-e
+![image](https://user-images.githubusercontent.com/105570939/171789574-83dee10e-e519-4778-b822-1cc4a104a5e7.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171790869-0eda3cb1-9f7f-45b9-a07a-95461dfacebf.png)
+
+**13.-Determine la corriente total suministrada por la fuente y la corriente a través de cada resistor para cada una de las posiciones de interruptor mostradas en la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171791093-968239bb-4649-4c6e-ba1c-139a232808fc.png)
+
+**14
 
 
 
