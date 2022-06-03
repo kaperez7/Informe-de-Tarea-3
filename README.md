@@ -339,19 +339,45 @@ Cada resistencia tiene el valor de 18K ohmios.
 
 ![image](https://user-images.githubusercontent.com/105570939/171812719-e4013210-8d37-4900-b5a7-b49800b93ee3.png)
 
-**20.-Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 k ohmios, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+**20.-Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 k ohmios, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:**
 
-(a) El número de resistores 
-(b) El valor de cada resistor
-(c) La corriente en cada rama 
-(d) El voltaje aplicado
+**(a) El número de resistores **
 
+**(b) El valor de cada resistor**
 
+**(c) La corriente en cada rama**
 
+**(d) El voltaje aplicado**
 
+![image](https://user-images.githubusercontent.com/105570939/171813425-ca1c3b7b-417a-4004-bc27-544c1d50041c.png)
 
+![image](https://user-images.githubusercontent.com/105570939/171813826-82139076-6877-444d-8b92-c872fc2d9ebc.png)
 
+![image](https://user-images.githubusercontent.com/105570939/171814054-fc5de117-96e0-4d2e-9c11-ca8f5653c4f0.png)
 
+![image](https://user-images.githubusercontent.com/105570939/171814460-42e14382-a5bb-4640-aa3b-9303f8ef6586.png)
+
+**SECCIÓN 6–10 Localización de fallas**
+
+**21.-En la figura, se indican las mediciones de corriente y voltaje. ¿Se ha abierto un resistor, y, de ser así, cuál?**
+
+![image](https://user-images.githubusercontent.com/105570939/171815151-32fbf272-0010-4d85-8430-ac09f84c9672.png)
+
+Si, el resistor 3 esta abierto
+
+**22.-¿Qué está mal con el circuito de la figura si el medidor lee 5.55 mA?**
+
+![image](https://user-images.githubusercontent.com/105570939/171815339-bc1017ab-ce85-4eac-88b3-6c203bfa4fe2.png)
+
+Esta dañado el resistor R1.
+
+**23.-Para el circuito mostrado en la figura 6-88, determine la resistencia entre las siguientes puntas si existe un corto entre las puntas 3 y 4:**
+
+**(a) 1 y 2 (b) 2 y 3 (c) 2 y 4 (d) 1 y 4**
+
+![image](https://user-images.githubusercontent.com/105570939/171816513-9a4ae560-0da2-4557-b7a4-d2f44e97fc43.png)
+
+Respuesta la b.
 
 4. VIDEO
 
