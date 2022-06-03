@@ -294,7 +294,60 @@ Cada resistencia tiene el valor de 18K ohmios.
 
 ![image](https://user-images.githubusercontent.com/105570939/171791093-968239bb-4649-4c6e-ba1c-139a232808fc.png)
 
-**14
+![image](https://user-images.githubusercontent.com/105570939/171801824-20a8daab-3650-437e-a351-d0d4c9f588b9.png)
+
+**SECCIÓN 6–6: Fuentes de corriente en paralelo**
+
+**14.-Determine la corriente a través de RL en cada uno de los circuitos de la figura.**
+
+![image](https://user-images.githubusercontent.com/105570939/171802057-b66c0ee0-7d70-4f67-8d4a-1a81794d925c.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171803164-9feee0ce-901d-4a61-9a82-0667944e7fd5.png)
+
+**SECCIÓN 6–7: Divisores de corriente.**
+
+**15.-¿Cuánta corriente deberán indicar los medidores de la figura, a través de cada rama?**
+
+![image](https://user-images.githubusercontent.com/105570939/171803444-1cf30fe6-ee80-4e28-abb1-f24aa01a7ad4.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171805361-65eaa9a4-cb7c-457d-a773-7b386856577b.png)
+
+**16.-¿Cuál es la corriente a través de cada resistor mostrado en la figura? R es el resistor de valor más bajo, y todos los demás valores son múltiplos de éste como se indica.**
+
+![image](https://user-images.githubusercontent.com/105570939/171805487-3e124296-24bd-43c3-9033-457e2cea5205.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171806786-3ad46d04-d94a-44aa-b684-07fb547aec6d.png)
+
+**17.-(a) Determine el valor requerido del resistor en derivación RSH1 en el amperímetro de la figura, si la resistencia del movimiento de medidor es de 50 ohmios.
+(b) Encuentre el valor requerido para RSH2 en el circuito medidor de la figura, (RM  50 ohmios).**
+
+![image](https://user-images.githubusercontent.com/105570939/171807975-b78cea27-1d09-4ddf-8fb5-4b0f7ac2dbc2.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171809057-2d29e993-4aae-492e-b838-a7f794d679e7.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171809170-0640fcc6-061d-402a-ade8-5d910efb5849.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171809783-5b996f6d-3493-415b-adb2-40a8c837e650.png)
+
+**SECCIÓN 6–8: Potencia en circuitos en paralelo.**
+
+**18.-Cada resistor de un grupo de cinco dispuesto en paralelo maneja 250 mW. ¿Cuál es la potencia total?**
+
+![image](https://user-images.githubusercontent.com/105570939/171811713-d80d2f04-14c3-4dc5-bf0d-a9f97fc108ed.png)
+
+**19.-Seis focos están conectados en paralelo entre los extremos de una fuente de 110 V. Cada foco es de 75 W.¿Cuál es la corriente a través de cada foco, y cuál es la corriente total?**
+
+![image](https://user-images.githubusercontent.com/105570939/171812719-e4013210-8d37-4900-b5a7-b49800b93ee3.png)
+
+**20.-Cierto circuito en paralelo está compuesto por resistores de sólo 1⁄2 W. La resistencia total es de 1.0 k ohmios, y la corriente total es de 50 mA. Si cada resistor opera a la mitad de su nivel de potencia máxima, determine lo siguiente:
+
+(a) El número de resistores 
+(b) El valor de cada resistor
+(c) La corriente en cada rama 
+(d) El voltaje aplicado
+
+
+
 
 
 
