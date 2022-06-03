@@ -3,27 +3,19 @@
 
 1. OBJETIVOS
 
-Los objetivos deben responder claramente la pregunta ¿Qué investigar? 
-El objetivo de la investigación es el enunciado claro y preciso de las metas que se persiguen. En los objetivos de la investigación se detallan las acciones en las que debe emprender el investigador para contestar a las preguntas planteadas en la formulación y sistematización del problema y tiene como propósito el direccionar la investigación. 
+Analizar los circuitos en serie y los circuitos en paralelo, mediante la lectura de textos electrónicos, para comprender los calculos que se deben realizar en cada uno de los circuitos. 
 
-Los objetivos generales dan origen a objetivos específicos que indica lo que se pretende realizar en cada una de las etapas de la investigación. La suma de los objetivos específicos es igual al objetivo general y por tanto a los resultados esperados de la investigación. Conviene notar que son los objetivos específicos los que se investigan y no el objetivo general, ya que este se logra de los resultados. 
-
-Los objetivos de investigación deben cumplir ciertas características: 
-* Deben ser concretos, cuantificables, verificables 
-* Deben estar redactados utilizando verbos en infinitivo 
-* Deben ser alcanzables por el investigador. 
-* Tienen que estar ligados con el tiempo. 
-
-
-Deben presentar directa relación con el tema de investigación y entre sí mismos. Todo trabajo de investigación es evaluado por el logro de los objetivos mediante un proceso sistemático, los cuales deben haber sido previamente señalados y seleccionados al comienzo de la investigación. La sistematización hace posible el planeamiento de estrategias válidas para el logro de objetivos. Por esta razón los objetivos tienen que ser revisados en cada una de las etapas del proceso; el no hacerlo puede ocasionar fallas en la investigación con la misma intensidad en que se presentan fallas en los objetivos. 
-
-Al finalizar la investigación, los objetivos han de ser identificables con los resultados; es decir, toda la investigación deberá estar respondiendo a los objetivos propuestos. 
-
-Considerar la Taxonomía de Bloom
+* Definir que es un circuito en serie y un circuito en paralelo.
+* Observar las diferencias entre los circuitos.
+* Identificar las formulas y leyes que se utilizan para el calculo de los circuitos.
 
 2. MARCO TEÓRICO (RESUMEN)
 
 **CIRCUITO EN SERIE.**
+
+* Los elementos están conectados como los eslabones de una cadena (el final de uno con el principio del otro).
+
+* La salida de uno a la entrada del siguiente y así sucesivamente hasta cerrar el circuito.
 
 **Resistores en serie.**
 
@@ -84,6 +76,121 @@ La suma algebraica de todos los voltajes (tanto de fuente como de caídas) local
 ![image](https://user-images.githubusercontent.com/105570939/171833316-152a6192-3ec8-421a-8850-4dd03c450261.png)
 
 **Divisores de voltaje**
+
+Un circuito compuesto a partir de una serie de resistores conectada a una fuente de voltaje actúa como divisor de voltaje.
+
+**Formula del divisor de voltaje**
+
+![image](https://user-images.githubusercontent.com/105570939/171834330-ed1469ee-85f7-4322-8e20-0605c041ca33.png)
+
+La caída de voltaje a través de cualquier resistor o combinación de resistores en un circuito en serie es igual a la relación de dicho valor de resistencia a la resistencia total, multiplicada por el voltaje de fuente.
+
+**Potencia en circuitos en  serie**
+
+La caída de voltaje a través de cualquier resistor o combinación de resistores en un circuito en serie es igual a la relación de dicho valor de resistencia a la resistencia total, multiplicada por el voltaje de fuente.
+
+![image](https://user-images.githubusercontent.com/105570939/171834742-866d8bb1-4e1c-44fb-a619-831fdf63fa19.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171834836-ab696aef-24d3-485b-a9d6-b8f64115852a.png)
+
+donde I es la corriente a través del circuito, VS es el voltaje de fuente total de la conexión en serie, y RT es la resistencia total.
+
+**Mediciones de voltaje**
+
+La tierra de referencia tiene un potencial de cero volts (0 V) con respecto a todos los demás puntos del circuito relacionados
+
+![image](https://user-images.githubusercontent.com/105570939/171835197-96437a90-e485-44a2-b9a2-44379f2f9613.png)
+
+**Medición de voltajes con respecto a tierra**
+
+Cuando se miden voltajes con respecto a la tierra de referencia en un circuito, un conector del medidor se conecta a la tierra de referencia y el otro al punto donde se va a medir el voltaje.
+
+![image](https://user-images.githubusercontent.com/105570939/171835425-417b713e-df11-426e-b31f-99e06b0e1115.png)
+
+**Localización de fallas**
+
+![Concept Map (10)](https://user-images.githubusercontent.com/105570939/171837079-f89e9bc2-b7dc-4603-978b-fb0abfaf2a0b.jpg)
+
+**CAPITULO 6:CIRCUITO EN PARALELO**
+
+Se denomina circuito paralelo cuando dos o más elementos están conectados al mismo nodo de energía y ambos lados de los componentes están vinculados directamente a la batería o cualquier otra fuente. Esto significa que los electrones (la electricidad) viajarán a través de muchas ramas desde un extremo de la batería hasta el otro extremo.
+
+**Resistores en paralelo**
+
+Cuando dos o más resistores se conectan individualmente entre dos puntos distintos, están en paralelo entre sí. Un circuito en paralelo proporciona más de una trayectoria para la corriente.
+
+![image](https://user-images.githubusercontent.com/105570939/171839577-60218721-b361-457e-bc94-eb8f55f44222.png)
+
+Si existe más de una trayectoria (rama) para la corriente entre dos puntos distintos, y si el voltaje entre dichos puntos también aparece a través de cada una de las ramas, entonces existe un circuito en paralelo entre esos dos puntos.
+
+**Voltaje en un circuito en paralelo.**
+
+El voltaje a través de cualquier rama de un circuito dispuesto en paralelo es igual al voltaje a través de cada una de las demás ramas en paralelo.
+
+![image](https://user-images.githubusercontent.com/105570939/171839902-4e6c84ce-081c-4bc2-ad8b-b17d16004777.png)
+
+**Ley de corrientes de Kirchhoff**
+
+La ley de la corriente de Kirchhoff es aplicable a corrientes que circulan por múltiples trayectorias.
+
+La suma de las corrientes que entran a un nodo (corriente total de entrada) es igual a la suma de las corrientes que salen de dicho nodo (corriente total de salida).Un nodo es cualquier punto o unión en un circuito donde dos o más componentes están conectados. En un circuito en paralelo, un nodo o unión es un punto donde se juntan las ramas dispuestas en paralelo.
+
+![image](https://user-images.githubusercontent.com/105570939/171840168-61e032ad-a15c-4a70-9416-761e147256c0.png)
+
+**Resistencia total en paralelo**
+
+Cuando se conectan resistores en paralelo, la resistencia total del circuito se reduce. La resistencia total de un circuito dispuesto en paralelo siempre es menor que el valor del resistor más pequeño.
+
+**Formula de la resistencia total en paralelo**
+
+![image](https://user-images.githubusercontent.com/105570939/171840486-f9661ad9-00f7-432b-a45e-6f6249f256c2.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171840542-05f775f0-4515-47b7-9ece-f57f9ed301e3.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171840564-f63b82a9-ae6d-490f-ab1d-f967d456d7ab.png)
+
+**En caso de 2 resistores en paralelo**
+
+![image](https://user-images.githubusercontent.com/105570939/171840672-597e0285-465e-4872-814a-46f729c5b1c2.png)
+
+**El caso de resistores en paralelo que tienen igual valor**
+
+![image](https://user-images.githubusercontent.com/105570939/171840775-1dc13df0-1e36-43cd-9408-c59567deb58a.png)
+
+**Determinación de un resistor en paralelo desconocido**
+
+![image](https://user-images.githubusercontent.com/105570939/171840841-febca06d-0145-4ced-a4a6-010e7f9f5510.png)
+
+**Aplicación de la ley de Ohm**
+
+![image](https://user-images.githubusercontent.com/105570939/171840992-0b608d77-6f74-452f-890a-9dcd18009995.png)
+
+**Fuentes de corriente en paralelo**
+
+En general, la corriente total producida por fuentes de corriente en paralelo es igual a la suma algebraica de las fuentes de corriente individuales. La suma algebraica implica que se debe considerar la dirección de la corriente cuando se combinan las fuentes en paralelo.
+
+**Divisores de corriente**
+
+Entre los resistores en paralelo, la corriente total se divide en corrientes con valores que son inversamente proporcionales a los valores de resistencia.
+
+![image](https://user-images.githubusercontent.com/105570939/171841355-d979d533-ae71-4210-94fa-1c8a14ba432c.png)
+
+**Fórmula del divisor de corriente**
+
+![image](https://user-images.githubusercontent.com/105570939/171841405-68985815-06cf-4d89-9f48-b2c2dcb75186.png)
+
+**Fórmulas del divisor de corriente con dos ramas**
+
+![image](https://user-images.githubusercontent.com/105570939/171841464-5a80e1de-2c68-4e86-bd1d-3d4a145b785d.png)
+
+**Potencia en circuitos en paralelo**
+
+![image](https://user-images.githubusercontent.com/105570939/171841560-8261e3ef-2b4c-4095-9aaf-04905364e12c.png)
+
+**Aplicaciones**
+
+![Concept Map (11)](https://user-images.githubusercontent.com/105570939/171842482-937cc209-623d-4607-893a-585b9af6c68b.jpg)
+
 
 
 
@@ -442,7 +549,9 @@ https://youtu.be/ADbrb3lA_hE
 
 5. CONCLUSIONES
 
-Se estable las conclusiones de cada asunto investigado, implicaciones para la teoría y resultados de las experiencias. Estos siempre estarán en relaciona los objetivos generales y específicos.
+* Un circuito en serie es aquel que contiene solo una trayectoria y por esta trayectoria hay componentes conectados en hilera y por estos para el voltaje, en cambion un circuito en paralelo contiene varias trayectorias que son conocidas  como ramas las cuales contienen varios componentes por los que se divide el voltaje.
+* La diferencia entre el circuito en serie y un circuito en paralelo esque en el circuito en sierie la corriente total es igual para todo el circuito es decir que por cada resistor para la misma cantidad de corriente en cambio en el circuito en paralelo el voltaje total es el mismo para todo el circuito.
+* Para calcular el voltae, resistencia y corriente de los circuitos se ocupan varias leyes y formulas como las leyes de kirchhoff y las leyes de Ohm ademas de formulas para encontrar la potencia o la resistencia, ademas se observa que hay formulas que son unicas para cada circuito por lo que es importante conocer las formulas y conceptos para poder resolver los ejercicios.
 
 6. BIBLIOGRAFÍA
 
