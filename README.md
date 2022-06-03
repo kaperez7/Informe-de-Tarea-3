@@ -23,17 +23,74 @@ Considerar la Taxonomía de Bloom
 
 2. MARCO TEÓRICO (RESUMEN)
 
-Este punto requiere que el estudiante realice una amplia consulta bibliográfica sobre el tema de su trabajo.
+**CIRCUITO EN SERIE.**
 
-Se describe la teoría o conjunto teórico apropiado con la cual el investigador enfrenta su proyecto y la realidad dentro del cual se ubica el problema de investigación, incluye:
-* Describir la actual relación entre el problema enunciado y el sistema o sistemas teóricos/conceptuales que pueden guiarlo.
-* Dejar claramente especificada la relación entre la teoría que guía la investigación y la realidad que se percibe como problema de investigación.
-* Conceptualizar el problema en la forma de un modelo, útil para clarificar los conceptos y relaciones conceptuales.
-* Señalar la forma en que la investigación actual enriquece, amplía y profundiza el conocimiento teórico, sustantivo y metodológico acumulado en estudios previos.
+**Resistores en serie.**
 
-Para su desarrollo debe evitarse en lo posible redactar párrafos continuos de texto, para lo cual se debe utilizar  mentefactos, cuadro comparativos, esquemas o mapas conceptuales
+Cuando se conectan en serie, los resistores forman una “hilera” en la cual existe sólo una trayectoria para la corriente.
+
+![image](https://user-images.githubusercontent.com/105570939/171828844-a3f918a9-4111-4fb6-ad96-f09f1ba04dfa.png)
+
+Un circuito en serie proporciona sólo una trayectoria para el paso de la corriente entre dos puntos, de modo que la corriente es la misma a través de cada resistor en serie.
+
+Recuerde que si entre dos puntos existe sólo una trayectoria para la corriente, los resistores ubicados entre esos dos puntos están en serie, no importa cómo aparezcan en un diagrama.
+
+**Corriente en un circuito en serie.**
+
+En un circuito en serie, la corriente que entra a cualquier punto es la misma corriente que sale de dicho punto.
+
+![image](https://user-images.githubusercontent.com/105570939/171829647-6f294eab-4280-4a5e-baa4-73d91c27daaf.png)
+
+**Resistencia total en serie.**
+
+La resistencia total de un circuito en serie es igual a la suma de todas las resistencias de cada resistor individual dispuesto en serie.
+
+**Suma de valores de resistores en serie**
+
+Cuando los resistores se conectan en serie, sus valores se suman porque cada resistor ofrece oposición a la corriente en proporción directa a su resistencia. Un mayor número de resistores conectados se opone más a la corriente. Más oposición a la corriente implica un valor más alto de resistencia.
+
+![image](https://user-images.githubusercontent.com/105570939/171830236-5a22d798-4871-4b96-8474-16e8d424928a.png)
+
+Cuando un circuito tiene en serie más de un resistor del mismo valor, existe un método abreviado para obtener la resistencia total.
+
+![image](https://user-images.githubusercontent.com/105570939/171830386-7d45dfde-dbe7-49ad-86b5-63e9e3c22709.png)
+
+**Aplicación de la ley de Ohm**
+
+![Concept Map (9)](https://user-images.githubusercontent.com/105570939/171832196-642a553d-26f4-4dab-95ef-a42e3bae2d4e.jpg)
+
+**Fuentes de voltaje en serie **
+
+Recuerde que una fuente de voltaje es una fuente de energía que proporciona un voltaje constante a una carga. Las baterías y las fuentes de potencia electrónicas son ejemplos prácticos de fuentes de voltaje de cd.
+
+![image](https://user-images.githubusercontent.com/105570939/171832463-49694f31-b589-4ed4-a5a7-9e20f855caf8.png)
+
+Cuando dos o más fuentes de voltaje están en serie, el voltaje total es igual a la suma algebraica de los voltajes de fuente individuales. La suma algebraica implica que las polaridades de las fuentes deben ser incluidas cuando las fuentes se combinan en serie. Las fuentes con polaridadesopuestas tienen voltajes con signos opuestos.
+
+![image](https://user-images.githubusercontent.com/105570939/171832615-270a09e5-9fb5-45e1-a031-48756e99f39b.png)
+
+**Ley de voltaje de Kirchhoff**
+
+la sumaalgebraica de todos los voltajes localizados en una sola trayectoria cerrada es cero o, en otra palabras, que la suma de las caídas de voltaje es igual al voltaje de fuente total.
+
+La suma de n caídas de voltaje es igual al voltaje de la fuente.
+
+![image](https://user-images.githubusercontent.com/105570939/171833116-7bac54e9-65c4-4c33-86f8-eefe4c33eb45.png)
+
+La suma algebraica de todos los voltajes (tanto de fuente como de caídas) localizados en una trayectoria cerrada única es cero.
+
+![image](https://user-images.githubusercontent.com/105570939/171833251-a35af95f-088e-4592-87f2-dc01ba717f7c.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171833316-152a6192-3ec8-421a-8850-4dd03c450261.png)
+
+**Divisores de voltaje**
+
+
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
+
+**CAPITULO 5: CIRCUITO EN SERIE.**
 
 **SECCIÓN 5–1: Resistores en serie**
 
@@ -210,7 +267,7 @@ El circuito tiene una apertura en R2, el voltaje medido seria el mismo de la bat
 
 Si indica un problema y es que el circuito se encuentra abierto.
 
-**CAPITULO 6**
+**CAPITULO 6: CIRCUITO EN PARALELO.**
 
 **SECCIÓN 6–1: Resistores en paralelo**
 
@@ -381,15 +438,7 @@ Respuesta la b.
 
 4. VIDEO
 
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
-En el video se debe explicar 4 ejercicios o problemas.
-
-
-
-
-
-
-
+https://youtu.be/ADbrb3lA_hE
 
 5. CONCLUSIONES
 
