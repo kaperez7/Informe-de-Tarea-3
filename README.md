@@ -206,7 +206,7 @@ El circuito tiene una apertura en R2, el voltaje medido seria el mismo de la bat
 
 ![image](https://user-images.githubusercontent.com/105570939/171573999-2ae9ea26-24f4-4153-8952-6df272e6f77a.png)
 
-**28.- Se leen 15 k ohmios entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura. ¿Indica esto un problema? De ser así, identifíquelo.
+**28.- Se leen 15 k ohmios entre las puntas 5 y 6 de la tarjeta de circuito impreso mostrada en la figura. ¿Indica esto un problema? De ser así, identifíquelo.**
 
 Si indica un problema y es que el circuito se encuentra abierto.
 
@@ -214,12 +214,60 @@ Si indica un problema y es que el circuito se encuentra abierto.
 
 **SECCIÓN 6–1: Resistores en paralelo**
 
-**1.-Determine si todos los resistores de la figura 6-65(b) están conectados o no en paralelo en la tarjeta de circuito impreso.**
+**1.-Determine si todos los resistores de la figura, están conectados o no en paralelo en la tarjeta de circuito impreso.**
+
+![image](https://user-images.githubusercontent.com/105570939/171638897-bebc28e6-1b6a-490b-9e6a-de35571218f9.png)
+
+Si esta conectado en paralelo.
+
+**SECCIÓN 6–2: Voltaje en un circuito en paralelo**
+
+**2.-¿Cuál es el voltaje entre los extremos y la corriente a través de cada resistor en paralelo si el voltaje total es de 12 V y la resistencia total de 550 ohmios? Hay cuatro resistores, todos de igual valor.**
+
+![image](https://user-images.githubusercontent.com/105570939/171646914-ee258627-5477-4e94-9a55-3d9d3e6a91a5.png)
+
+El voltaje a los extremos es de 12 V
+
+**3.-¿Cuál es la resistencia total del circuito visto desde la fuente de voltaje para cada posición del interruptor incluido en la figura?**
+
+![image](https://user-images.githubusercontent.com/105570939/171647206-12ce226a-6cfb-452d-9b44-7d0aaeecfcc5.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171666863-c031384d-8e18-4306-883a-8494eebc8a70.png)
+
+**4.-¿Cuál es la corriente total suministrada por la fuente de voltaje que muestra la figura 6-68 para cada posición del interruptor?**
+
+![image](https://user-images.githubusercontent.com/105570939/171672970-af9d0f51-0898-462c-91b1-3d3b630e75c8.png)
+
+![image](https://user-images.githubusercontent.com/105570939/171766658-24120fa4-e6f5-4dfd-8507-0d894d192cbf.png)
+
+**SECCIÓN 6–3: Ley de las corrientes de Kirchhoff**
+
+**5.-Un total de 500 mA entra a cinco resistores en paralelo. Las corrientes a través de los resistores son de:50 mA, 150 mA, 25 mA y 100 mA. ¿Cuál es la corriente a través del quinto resistor?
+
+![image](https://user-images.githubusercontent.com/105570939/171767696-e1ab25ab-a320-46f9-a132-a21e9809eb57.png)
+
+**SECCIÓN 6–4: Resistencia total en paralelo**
+
+**6.-Los siguientes resistores están conectados en paralelo: 1.0 M ohmios, 2.2 M ohmios, 5.6 M ohmios, 12 M ohmios, y 22 M ohmios.Determine la resistencia total.**
+
+![image](https://user-images.githubusercontent.com/105570939/171772107-fe356a84-247d-4c6e-a856-3d6cbc72f075.png)
+
+
+
+
+
+
 
 4. VIDEO
 
 Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto.
 En el video se debe explicar 4 ejercicios o problemas.
+
+
+
+
+
+
 
 
 5. CONCLUSIONES
