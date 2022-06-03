@@ -286,7 +286,7 @@ Cada resistencia tiene el valor de 18K ohmios.
 
 ![image](https://user-images.githubusercontent.com/105570939/171781976-06eb3ca0-f10d-4ede-bc08-57ed5605628d.png)
 
-
+e
 
 
 
