@@ -191,9 +191,9 @@ Entre los resistores en paralelo, la corriente total se divide en corrientes con
 
 ![Concept Map (11)](https://user-images.githubusercontent.com/105570939/171842482-937cc209-623d-4607-893a-585b9af6c68b.jpg)
 
+**Localizacion de fallas**
 
-
-
+![Uploading Concept Map (12).jpg…]()
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -555,7 +555,12 @@ https://youtu.be/ADbrb3lA_hE
 
 6. BIBLIOGRAFÍA
 
-Emplear normas APA.
+Acosta, I. C. (19 de Marzo de 2016). geekelectronica. Obtenido de geekelectronica: https://geekelectronica.com/leyes-de-kirchhoff/
+
+Zapata, F. (2 de Junio de 2021). Lifeder. Obtenido de lifeder: https://www.lifeder.com/leyes-kirchhoff/
+
+Zapata, F. (24 de Mayo de 20221). lifeder. Obtenido de lifeder: https://www.lifeder.com/circuito-paralelo/
+
 
 RUBRICA
 
